@@ -19,4 +19,4 @@ Customer churn and account activation analysis using Python, SQL-style analysis,
 - SQL-style analysis  
 
 ## 📈 Dashboard
-![Dashboard](images/churn_dashboard.png)
+![Dashboard](images/dashboard.png)
